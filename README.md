@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**vanessaribeiro92/vanessaribeiro92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá! Eu sou a Vanessa Ribeiro
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com front-end (React)
+- 🌱 Estudando Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+  <a href="https://github.com/vanessaribeiro92">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vanessaribeiro92&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaribeiro92&layout=compact&langs_count=7&theme=radical&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a"/>
+</div>
+  <br>
+ <div style="display: inline_block><br>
+  <img align="center" alt="Vanessa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vanessa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Vanessa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+
+
+</div>
+
+##                                                                                                                                               
+                                                                                                                                                 
+ ![Snake animation](https://github.com/brunnorech/brunnorech/blob/output/github-contribution-grid-snake.svg)
